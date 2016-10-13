@@ -1,7 +1,9 @@
 # Sales taxes problem
 ## COMPILE AND RUN
 Il progetto fa uso di Maven: `mvn package` crea un jar eseguibile.
+
 La classe Main nel package marco esegue lo stesso test fatto nella classe TestEndToEnd, ma stampa a video i risultati.
+
 In `src/test` sono presenti i test JUnit scritti.
 `TestEndToEnd` usa un input in forma di stringa dell'intera lista e verifica che l'output sia quello previsto.
 
